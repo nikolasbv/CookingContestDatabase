@@ -1,6 +1,6 @@
 # Cooking Contest 
 
-Project for the Intro to Databases 2024 class in NTUA ECE that simulates a Database for a Cooking Contest.
+Project for the Databases 2024 class in NTUA ECE that simulates a Database for a Cooking Contest.
 
 ## Authors
 - Azas Leonidas ge20117
