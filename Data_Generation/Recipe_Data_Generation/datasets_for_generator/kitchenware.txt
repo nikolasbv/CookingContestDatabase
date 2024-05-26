@@ -1,0 +1,59 @@
+<div class="div-col" style="column-width: 22em;">
+<ul><li><a href="/wiki/Baking_dish" class="mw-redirect" title="Baking dish">Baking dish</a></li>
+<li><a href="/wiki/Baking_tray" class="mw-redirect" title="Baking tray">Baking tray</a></li>
+<li><a href="/wiki/Cake_pan" class="mw-redirect" title="Cake pan">Cake pan</a></li>
+<li><a href="/wiki/Can_opener" title="Can opener">Can opener</a></li>
+<li><a href="/wiki/Chopping_board" class="mw-redirect" title="Chopping board">Chopping board</a></li>
+<li><a href="/wiki/Coffee_press" class="mw-redirect" title="Coffee press">Coffee press</a></li>
+<li><a href="/wiki/Colander" title="Colander">Colander</a></li>
+<li><a href="/w/index.php?title=Cooling_rack&amp;action=edit&amp;redlink=1" class="new" title="Cooling rack (page does not exist)">Cooling rack</a></li>
+<li><a href="/wiki/Corkscrew" title="Corkscrew">Corkscrew</a></li>
+<li><a href="/wiki/Cutlery" title="Cutlery">Cutlery</a></li>
+<li><a href="/wiki/Dinnerware" class="mw-redirect" title="Dinnerware">Dinnerware</a></li>
+<li><a href="/wiki/Mixer_(cooking)" class="mw-redirect" title="Mixer (cooking)">Eggbeater</a></li>
+<li><a href="/wiki/Egg_slicer" title="Egg slicer">Egg slicer</a></li>
+<li><a href="/wiki/Electric_mixer" class="mw-redirect" title="Electric mixer">Electric mixer</a></li>
+<li><a href="/wiki/Fork" title="Fork">Fork</a></li>
+<li><a href="/wiki/Frying_pan" title="Frying pan">Frying pan</a></li>
+<li><a href="/wiki/Garlic_press" title="Garlic press">Garlic press</a></li>
+<li><a href="/wiki/Grater" title="Grater">Grater</a></li>
+<li><a href="/wiki/Glassware" class="mw-redirect" title="Glassware">Glassware</a></li>
+<li><a href="/wiki/Griddle" title="Griddle">Grill pan</a></li>
+<li><a href="/wiki/Kitchen_scissors" class="mw-redirect" title="Kitchen scissors">Kitchen scissors</a></li>
+<li><a href="/wiki/Knife" title="Knife">Knives</a></li>
+<li><a href="/wiki/Mandolin_(cooking)" class="mw-redirect" title="Mandolin (cooking)">Mandolin</a></li>
+<li><a href="/wiki/Measuring_cup" title="Measuring cup">Measuring cups and spoons</a></li>
+<li><a href="/wiki/Measuring_spoon" title="Measuring spoon">Measuring spoon</a></li>
+<li><a href="/wiki/Meat_slicer" title="Meat slicer">Meat slicer</a></li>
+<li><a href="/wiki/Bowl" title="Bowl">Mixing bowls</a></li>
+<li><a href="/wiki/Muffin_tin" title="Muffin tin">Muffin tin</a></li>
+<li><a href="/wiki/Pressure_cooker" class="mw-redirect" title="Pressure cooker">Pressure cooker</a></li>
+<li><a href="/w/index.php?title=Pasta_server&amp;action=edit&amp;redlink=1" class="new" title="Pasta server (page does not exist)">Pasta server</a></li>
+<li><a href="/wiki/Peeler" title="Peeler">Peeler</a></li>
+<li><a href="/wiki/Pepper_mill" class="mw-redirect" title="Pepper mill">Pepper mill</a></li>
+<li><a href="/w/index.php?title=Pie_dish&amp;action=edit&amp;redlink=1" class="new" title="Pie dish (page does not exist)">Pie dish</a></li>
+<li><a href="/wiki/Pizza_stone" class="mw-redirect" title="Pizza stone">Pizza stone</a></li>
+<li><a href="/wiki/Plate_(dishware)" title="Plate (dishware)">Plates</a></li>
+<li><a href="/wiki/Potato_masher" title="Potato masher">Potato masher</a></li>
+<li><a href="/wiki/Potato_ricer" title="Potato ricer">Potato ricer</a></li>
+<li><a href="/wiki/Rolling_pin" title="Rolling pin">Rolling pin</a></li>
+<li><a href="/wiki/Saucepan" title="Saucepan">Saucepan</a></li>
+<li><a href="/w/index.php?title=Serving_fork&amp;action=edit&amp;redlink=1" class="new" title="Serving fork (page does not exist)">Serving fork</a></li>
+<li><a href="/wiki/Serving_spoon" class="mw-redirect" title="Serving spoon">Serving spoon</a></li>
+<li><a href="/wiki/Sheet_pan" title="Sheet pan">Sheet pan</a></li>
+<li><a href="/wiki/Skillet" class="mw-redirect" title="Skillet">Skillet</a></li>
+<li><a href="/wiki/Slotted_spoon" title="Slotted spoon">Slotted spoon</a></li>
+<li><a href="/wiki/Soup_spoon" title="Soup spoon">Soup spoon</a></li>
+<li><a href="/wiki/Spatula" title="Spatula">Spatula</a></li>
+<li><a href="/wiki/Spiral_vegetable_slicer" title="Spiral vegetable slicer">Spiral vegetable slicer</a></li>
+<li><a href="/wiki/Spoon" title="Spoon">Spoon</a></li>
+<li><a href="/wiki/Stock_pot" title="Stock pot">Stock pot</a></li>
+<li><a href="/wiki/Food_steamer" title="Food steamer">Steamers</a></li>
+<li><a href="/wiki/Strainer" class="mw-redirect" title="Strainer">Strainer</a></li>
+<li><a href="/wiki/Timer" title="Timer">Timer</a></li>
+<li><a href="/wiki/Tomato_slicer" title="Tomato slicer">Tomato slicer</a></li>
+<li><a href="/wiki/Tongs" title="Tongs">Tongs</a></li>
+<li><a href="/wiki/Tray" title="Tray">Tray</a></li>
+<li><a href="/wiki/Whisk" title="Whisk">Whisk</a></li>
+<li><a href="/wiki/Wok" title="Wok">Wok</a></li>
+<li><a href="/wiki/Wooden_spoon" title="Wooden spoon">Wooden spoon</a></li></ul></div>

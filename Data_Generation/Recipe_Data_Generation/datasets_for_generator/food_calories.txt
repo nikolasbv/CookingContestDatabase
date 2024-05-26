@@ -1,0 +1,734 @@
+Food	Calories/100g-ml	Calories/Serving	Share
+Beans	35	51	1 cup (145gr)
+Pear (compost)	50	62.5	1 piece (125gr)
+Mixed vegetables for soup (frozen)	40	100	250gr
+Clams	86	73	85gr
+Pear	63	113	1 fruit (180gr)
+Pear (dried)	262	157	60gr
+Artichokes (frozen)	38	95	250gr
+Artichokes (boiled)	74	62	1/2 cup (84gr)
+Iris Coffey	56	140	200ml
+Actinium	58	43.5	1 fruit (75gr)
+Actinide (dried)	360	216	60gr
+Carob flour	220	55	3 boxes Soup (25gr)
+Buckwheat flour	335	84	3 boxes Soup (25gr)
+All Purpose Flour (White Enriched)	366	92	3 boxes Soup (25gr)
+Corn flour	361	90	3 boxes Soup (25gr)
+Whole wheat flour	370	93	3 boxes Soup (25gr)
+Self raising flour (enriched)	354	89	3 boxes Soup (25gr)
+Self-rising wheat flour	354	89	3 boxes Soup (25gr)
+Gluten-free soy flour	429	107	3 boxes Soup (25gr)
+Classic soy flour	435	109	3 boxes Soup (25gr)
+Flour Zea	347	87	3 boxes Soup (25gr)
+Aloe	56	17	31gr
+Amaretto	196	88	45ml
+Raw salted almonds	500	60	8 almonds (12gr)
+Unsalted raw almonds	500	60	8 almonds (12gr)
+Baked salted almonds	585	59	6 almonds (10gr)
+Almond nuts	500	60	8 almonds (12gr)
+Mixed Vegetable Salad (Frozen)	48	72	150gr
+Pineapple	50	87.5	1 slice (175gr)
+Pineapple (compost)	60	97.2	1 slice (162gr)
+Pineapple (candied)	313	141	2 boxes Soup (45gr)
+Soft drinks	50	165	330ml
+Soft drinks type zero	0.2	0.66	330ml
+Pickled cucumbers	11	4.4	1 piece (40gr)
+Cucumber	10	11.9	1 cup (119gr)
+Dill	43	5.4	12,5gr
+Cream cheese	181	54	30gr
+Anthotyros (Epirus)	228	68	30gr
+Antidia	17	6.8	1/2 cup (40gr)
+Anchovies	210	179	85gr
+Apaki	158	32	20gr
+Apple Martini	160	240	150ml
+Peas (frozen)	77	192.5	250gr
+peas (boiled)	84	122	1 cup (145gr)
+Arabic pies	260	195	75gr
+Lamb	265	331	125gr
+Grilled Lamb Steak	284	355	125gr
+LAMB fricassee	179	224	125gr
+Boiled or roasted lamb tongue	275	303	110gr
+Braised lamb	238	298	125gr
+Lamb with egg lemon artichokes	210	263	125gr
+Roasted lean lamb shoulder	204	255	125gr
+Roasted lamb shoulder with thickness	340	425	125gr
+Grilled Lamb Kids	215	269	125gr
+Roast leg of lamb	265	331	125gr
+Roast lamb breast	270	338	125gr
+Lamb liver	220	242	110gr
+Grilled lamb burger	228	251	110gr
+Fried lamb liver	251	314	125gr
+Aspartame	372	37	1 tsp. Soup (10gr)
+Grilled lobster	75	101	135gr
+Boiled lobster	88	128	1 cup (145gr)
+Smelt	124	105	85gr
+Sports isotonic drink	14	35	250ml
+Eggs	143	79	1 whole (55gr)
+Egg white	52	17	1 egg white (33gr)
+Yolk eggs	353	60	1 yolk (17gr)
+Eggs with tomato + cheese	231	289	125gr
+Poached eggs	142	99	1 egg (70g)
+Egg-omelet with 1 tbsp. oil	191	134	1 omelette (70gr)
+Egg-omelette with vegetables	164	205	1 omelette (125gr)
+Egg omelette with mushrooms	97	233	1 omelette (240gr)
+Egg omelette with french fries	171	410	1 omelette (240gr)
+Egg-omelette with cheese/ham	199	338	1 omelette (170gr)
+Egg fryers	232	93	1 slice (40gr)
+Roe	143	20	1 tsp. Soup (14gr)
+Avocado	160	48	2 boxes Soup (30gr)
+Bacardi	262	118	45ml
+Bacardi Breezer	171	77	275ml
+Baileys	118	53	45ml
+Grilled cod	84	151	1 fillet (180gr)
+Fried codfish	290	247	85gr
+Balsamic	88	4.4	1 Mr. Sweet (5gr)
+Okra (boiled)	45	112.5	250gr
+Banana	89	98	110gr
+Banana (dried)	525	210	40gr
+Grilled mullet	148	178	120gr
+Bacon	468	70	1 slice (15gr)
+Turkey Bacon	226	34	1 slice (15gr)
+Bacon Chicken	260	39	1 slice (15gr)
+Vegan bacon	309	46	1 slice (15gr)
+bechamel	212	148	70gr
+Burgers	245	270	110gr
+Blueberry	57	43	75gr
+Sheep and goat butter	900	90	10gr
+Brian	115	258	225gr
+Broccoli	39	97.5	250gr
+Black beer	45	160	330ml
+Blonde beer	35	115	330ml
+Campari	173	78	45ml
+Caviar	264	66	25gr
+Smoked eel	287	83	29gr
+Chlorella	400	16	4gr
+Frozen pork patty-hamburger	198	218	110gr
+Pork leg	297	356	120gr
+Pork hamburger in a bun	243	413	170gr
+Braised pork	317	396	125gr
+Pork with celery egg lemon	221	276	125gr
+Pot roast pork	418	523	125gr
+Pork souvlaki with Cypriot pie	193	483	250gr
+Pork gyro in a Cypriot pie	258	310	120gr
+Pork neck	182	164	90gr
+Hotdog	245	441	180gr
+Dried dates	282	71	3 dates (25gr)
+Horseradish	48	5	1 tsp. Soup (10gr)
+Boiled octopus	164	164	100gr
+Scallops	115	138	120gr
+Noodles (boiled)	143	200	1 cup (140gr)
+Natural fresh juice	52	130	250ml
+Fruit flavored juice for stimulation	72	180	250ml
+Packaged tomato juice	20	50	250ml
+Cosmopolitan	331	202	65ml
+Plums	46	56	2 plums (122gr)
+Prunes (dried)	240	96	40gr
+Daquiri Frozen	196	294	150ml
+Rosemary (fresh)	131	2.5	1 tablespoon (1.7 gr)
+Nutritional yeast	364	36	1 Mr. Soup (10gr)
+Cereal from rice grains	384	115	30gr
+Cereal Corn flakes	389	117	30gr
+Cereal Corn flakes without gluten	380	114	30gr
+Corn cereal with honey	383	115	30gr
+Whole grain cereals	368	110	30gr
+Whole grain cereals with fruit	364	109	30gr
+Whole grain cereals with honey+almonds	389	117	30gr
+Whole wheat cereal with chocolate	395	119	30gr
+Oatmeal with fruit	455	205	45gr
+Oatmeal with dark chocolate	473	213	45gr
+As	70	2.2	2 boxes Soup (3.2gr)
+Pregnant pork	187	234	125gr
+Olive oil	890	45	1 cup of sugar (5gr)
+Kalamata Olives	204	61	8 olives (30gr)
+Sweet olives pate	308	92	8 olives (30gr)
+Black olives	393	137	10 olives (35gr)
+Crushed green olives	320	112	8 olives (35gr)
+Olive clots	270	95	8 olives (35gr)
+Estragon	295	9	1 dried leaf (3gr)
+Lentils	114	102	90gr
+Green beans	16	40	250gr
+Red kidney beans	127	114	90gr
+Dry white beans	139	125	90gr
+Black beans	132	119	90gr
+Split peas	116	104	90gr
+Snakes (cooked)	240	204	85gr
+fennel	11	28	250gr
+Freaky	59	95	2 whistles (160gr)
+Peanuts	587	59	10 peanuts (10gr)
+Peanuts from Aegina	560	56	16 peanuts (10gr)
+Peanut butter	597	48	1/2 tsp. Soup (8gr)
+Hazel	628	57	5 hazelnuts (9gr)
+Strawberries	24	55	1+1/4 cup (190gr)
+Strawberries (dried)	325	98	30gr
+Wholemeal country toasts	407	97	2 pieces (24gr)
+Toasts without sugar	400	80	2 pieces (20gr)
+Wholemeal breadcrumbs	387	77	2 pieces (20gr)
+Rye toasts	399	80	2 pieces (20gr)
+Wheat toasts	406	81	2 pieces (20gr)
+Wheat toast	408	82	2 pieces (20gr)
+Seaweed	35	18	50gr
+Crust	317	95	30gr
+Flaky pastry	558	167	30gr
+Unsweetened almond milk	15	38	250gr
+Almond milk with sugar	30	75	250gr
+Coconut milk	31	78	250gr
+Coconut milk (thick)	230	288	125gr
+Long life milk (light)	47	118	250gr
+Long life milk (whole)	65	163	250gr
+Milk with 0% fat	33	83	250gr
+Milk with 1.5% fat	46	115	250gr
+Full-fat milk	61	153	250gr
+Soy milk	43	108	250gr
+Sugar-free soy milk	38	95	250gr
+Condensed milk	132	330	250gr
+Oat milk	50	125	250gr
+Galette	395	336	85gr
+Turkey fillet	189	227	120gr
+Smoked turkey fillet 0-2% fat	100	18	1 slice (18gr)
+Smoked turkey	186	33	1 slice (18gr)
+Oven-roasted turkey leg without skin	161	164	120gr
+Oven-roasted turkey leg with skin	183	187	120gr
+Oven-roasted turkey breast without skin	136	163	120gr
+Turkey Boiled leg without skin	183	220	120gr
+Turkey Boiled leg with skin	208	250	120gr
+Turkey Boiled skinless breast	147	176	120gr
+Turkey Boiled breast with skin	164	197	120gr
+Goosebumps	140	42	30gr
+Gardoubes	178	223	125gr
+Shrimps	99	50	85gr
+Marinated anchovy	210	95	45gr
+Stuffed with minced meat	157	392	250gr
+Stuffed with rice	124	310	250gr
+Cow Yogurt 0%	56	112	200gr
+Cow Yogurt 5%	89	178	200gr
+Goat yogurt 4%	69	138	200gr
+Yogurt with pieces of fruit	65	130	200gr
+Children's yogurt (fruit-chocolate)	141	211	150gr
+Sheep yogurt 2%	62	124	200gr
+Sheep yogurt 5% (with skin in clay)	91	182	200gr
+Sheep yogurt 6.6% (with skin in clay)	101	202	200gr
+Sheep yogurt 8%	106	212	200gr
+Boiled goat	142	170	120gr
+Giants	108	97	90gr
+Yuvarlakia Egglemon	210	231	110gr
+Juventus	252	440	225gr
+Goji Berry	349	98	5 boxes of sweet (28gr)
+Granola	489	147	30gr
+Grapefruit	42	82	1 fruit (196gr)
+Slider (raw)	16	7	1 cup (43gr)
+Veal tongue	224	269	120gr
+Grilled tongue	99	112	113gr
+Teganitis language	308	262	85gr
+Sweet potato	76	190	1 cup (250gr)
+Sweet potatoes	76	190	1 cup (250gr)
+Sweetsour sauce	73	3.7	1 tablespoon of sweet (5gr)
+Turnip (raw)	28	14	1 cup (50gr)
+Turnip (boiled)	22	20	1 cup (90gr)
+Roast beef	142	170	120gr
+Gopa pancake	177	266	150gr
+Gordon’s space	35	96	275ml
+Guacamole	155	155	100gr
+Guli (raw)	27	34	1 cup (125gr)
+Guli (boiled)	30	54	1 cup (180gr)
+Milk piglet	242	290	120gr
+Roast pork (thigh)	236	283	120gr
+Roast pork (breast)	233	280	120gr
+Grenadine	268	107	40ml
+Sunflower oil	884	44	1 tablespoon of sweet (5g)
+Sunflower seed with skin	547	44	1 can of soup (8gr)
+Sunflower seed crumb	570	46	1 tsp. Soup (8 gr)
+Imam	122	275	225gr
+Betel	354	106	30gr
+Jinn	262	118	45ml
+Plain American coffee	1.5	3	200ml
+Coffee Greek sweet (single)	53	45	85ml
+Greek plain coffee (single)	0.2	1	85ml
+Coffee frappe (sweet)	15	45	300ml
+Coffee frappe (medium)	8	25	300ml
+Frappe coffee (straight)	2	5	300ml
+Fredo espresso coffee (sweet)	53	105	200ml
+Fredo espresso coffee (medium)	43	85	200ml
+Fredo espresso coffee (plain)	33	65	200ml
+Coffee French plain	2.5	5	200ml
+Cappuccino coffee (sweet)	69	103	150ml
+Cappuccino coffee (medium)	55	83	150ml
+Cappuccino coffee (plain)	42	63	150ml
+Cocoa	228	23	1 tablespoon of soup (10gr)
+Cocoa drink with sugar	125	187	150ml
+Cocoa chocolate drink	101	252	250ml
+Corn (frozen)	88	220	250gr
+Corn (canned)	67	114	1 cup (170gr)
+Corn (boiled or roasted)	98	167	1 cup (170gr)
+Corn fritters	373	75	2 pieces (20gr)
+Fried squid	146	204	140gr
+Fried squid	175	245	140gr
+Squids	175	175	100gr
+Grilled squid	94	132	140gr
+Kamikaze	178	267	150ml
+Smoked tuna	200	170	85gr
+Caramelized onions	161	32	2 tsp. Soup (20gr)
+Grilled crayfish	73	102	140gr
+Boiled crayfish	81	113	140gr
+Pork loin	211	253	120gr
+Carrots (frozen)	36	90	250gr
+Carrots (raw)	41	49	1 cup (120gr)
+Carrots (boiled)	65	104	1 cup (160gr)
+Watermelon	30	114	380gr
+Grated Indian coconut	362	18	1 tablespoon of sweet (5gr)
+Coconut oil	895	45	1 tablespoon of sweet (5g)
+Walnuts	646	52	4 walnuts (8gr)
+Uncooked cashews	574	46	6 cashews (8gr)
+Cashew nuts roasted in oil	581	47	6 cashews (8gr)
+Cashew nuts roasted with honey	558	45	6 cashews (8gr)
+Fresh raw chestnuts	196	78	40gr
+Fresh boiled chestnuts	131	66	2 large (50gr)
+Canned chestnuts	274	110	2 large (40gr)
+Dry chestnuts raw	196	78	40gr
+Dry roasted chestnuts	245	100	2 large (40gr)
+Kid	143	172	120gr
+Grilled crabs	110	130	118gr
+Crab cakes	96	58	60gr
+Boiled head	150	177	1 fillet (118gr)
+Kefir 1.5%	40	100	250gr
+Kefir 1.7%	61	133	250gr
+Strawberry Kefir (Stevia)	48	120	250gr
+Meatballs	270	297	110gr
+Meatballs	213	234	110gr
+Cherry	63	57	11 cherries (90gr)
+Cherries (dried)	333	100	30gr
+Ketchup	101	5	1 tablespoon of sweet (5gr)
+Panties	257	308	120gr
+Minced pork	296	154	3 cans of soup (52gr)
+Minced chicken	189	98	3 soup spoons (52gr)
+Minced beef	271	141	3 cans of soup (52gr)
+Minced soybeans	350	182	3 soup spoons (52gr)
+Quinoa	120	168	140gr
+Quinoa (boiled)	120	168	140gr
+Kofteri	400	440	110gr
+Honeycomb	394	118	30gr
+Candied lemon	400	120	30gr
+Caper	23	2	1 box Soup (8.6gr)
+Kombucha	17	43	250gr
+Chicken	187	234	125gr
+Coriander	23	0.23	1 sprout (1gr)
+Grilled kolios	188	211	1 fillet (112gr)
+Kolokasi yachni-without meat	89	231	260gr
+Kolokasi with meat	146	365	250gr
+Stuffed courgettes for fasting	153	421	275gr
+Sweet pumpkin (raw)	26	30	1 cup (116gr)
+Sweet pumpkin (boiled)	18	23	1 cup (130gr)
+Pumpkins	15	19.5	1 cup (130gr)
+Zucchini (frozen)	17	42.5	250gr
+Zucchini with eggs	200	360	180gr
+Pumpkin seed	646	97	1 tsp. Soup (15gr)
+Cognac	251	113	45ml
+Corn flour	361	18	1 tablespoon of sweet (5gr)
+Corn flour	290	58	20gr
+Chicken pie	236	295	125gr
+Chicken leg	184	221	120gr
+Chicken wings	259	311	120gr
+Fried chicken	180	225	125gr
+Chicken with okra	168	210	125gr
+Chicken bro	279	349	125gr
+Roast chicken	186	233	125gr
+Chicken roll with ham	319	399	125gr
+Chicken breast	186	223	120gr
+Chicken broth	6	14	1 cup (240gr)
+Chicken soup	156	350	225gr
+Quaker	374	161	1 cup (43gr)
+Dry shells boiled in water	62	56	90gr
+Cocoa seeds	673	100	1 tsp. Soup (15gr)
+Pretzels of Thessaloniki	250	125	1/2 bagel (50gr)
+Kumquat	71	71	100gr
+Sweet spoon kumquat	339	34	2 spoons of sweet (10gr)
+Roast rabbit	161	193	120gr
+Rabbit stew (with bones)	156	195	125gr
+Cauliflower	32	58	1 cup (180gr)
+Cauliflower	32	58	1 cup (180gr)
+Cauliflower (pickled)	40	48	1/2 cup (120gr)
+Meatballs	181	317	175gr
+Cups fasting	162	284	175gr
+Minced meatballs	313	94	30gr
+Blanket	579	145	25gr
+Crackers	436	87	2 pieces (20gr)
+Crackers without sugar	442	97	2 pieces (22gr)
+Rye crackers	429	86	2 pieces (20gr)
+Cranberries	46	46	1 cup (100gr)
+Cranberries (dried)	308	123	40gr
+Red wine	80	80	100ml
+White Wine	60	60	100ml
+Meat pie	272	340	125gr
+Milk cream 11% fat	119	60	50gr
+Milk cream 35% fat	340	170	50gr
+Light milk cream	195	98	50gr
+Fresh onions	19	47.5	250gr
+Round onions	50	125	250gr
+Round onions (frozen)	35	87.5	250gr
+Dry onion	44	110	250gr
+Onion dry (frozen)	29	72.5	250gr
+Barley	359	305	85gr
+Breadsticks with 4 grains	403	73	1 piece (18gr)
+Breadsticks with sesame seeds	456	87	1 piece (19gr)
+Wholemeal breadcrumbs	436	78	1 piece (18gr)
+Fish croquettes	277	416	150gr
+Krokos Kozani	310	76	25gr
+Croissant with cherry filling	408	326.4	80 gr
+Croissants with chocolate filling	479	335.3	70gr
+Croissant with vanilla cream	450	360	80 gr
+Butter croissant	406	325	80 gr
+Croutons	437	131	30gr
+Quince	57	52	1 fruit (92gr)
+Sweet spoon quince	340	34	2 Mr. Sweet (10gr)
+Brussels sprouts (frozen)	35	87.5	250gr
+Chinese cabbage	13	19.5	1 cup (150gr)
+Cabbage (boiled)	25	22	1 cup (89gr)
+Parsley oil	890	44	1 tablespoon of sweet (5gr)
+Truffle oil	850	43	1 Mr. Sweet (5gr)
+Lagana	300	90	30gr
+Boiled hare	175	210	120gr
+Sea bass	200	240	120gr
+Sea bass	200	240	120gr
+Lemon	47	3.3	1 slice (7gr)
+Lemon juice	22	27	1/2 cup (122gr)
+Lemongrass	99	12	4 branches (12gr)
+Liqueur	291	160	45ml
+Pomegranate liqueur	250	113	45ml
+Sour cherry liqueur	250	113	45ml
+Linseed	550	55	1 tsp. Soup (10gr)
+Pork sausages	309	155	1 piece (50gr)
+Wine pork sausages	354	443	125gr
+Country sausages with leeks	301	60	20gr
+Turkey Sausages	196	98	1 piece (50gr)
+Chicken Sausages	156	73	1 piece (47gr)
+Sausages with leeks	284	312	110gr
+Beef Sausages	200	100	1 piece (50gr)
+Traditional smoked sausages	265	331	125gr
+Frankfurter type sausages	245	306	125gr
+Boiled Vienna sausages	231	111	2 pieces (48gr)
+Beef sausages	178	223	125gr
+Ludza	146	44	30gr
+Pike	88	174	1/2 fillet (198gr)
+Red snapper	206	309	150gr
+Mayonnaise, Margarine	680	34	1 Mr. Sweet (5gr)
+Mai Tai	309	309	100ml
+Parsley	18	2.3	12.5
+Parsley (frozen)	45	5.6	12.5
+Gluten-free spaghetti (boiled)	179	215	1 cup (120gr)
+Spaghetti white (boiled)	157	188	1 cup (120gr)
+Whole wheat spaghetti (boiled)	124	149	1 cup (120gr)
+Malibu	147	66	45ml
+Mango	60	99	1 cup (165gr)
+Mango (dried)	319	128	40gr
+Dried mushrooms	296	44	4 mushrooms (15gr)
+Coffee mushrooms	44	110	250gr
+Mushrooms (frozen)	28	70	250gr
+White mushrooms-Portobello	22	55	250gr
+Pleurotus mushrooms	41	102.5	250gr
+Simple porcini mushrooms (Vasilomanitara)	311	93	30gr
+Dried porcini mushrooms	245	74	30gr
+Tangerines	53	80.5	2 small (152gr)
+Meringue	271	339	125gr
+Margarine	728	36	1 tablespoon of sweet (5gr)
+Margarita	168	168	100ml
+Fry	108	130	120gr
+Jam	278	14	1 tablespoon of sweet (5gr)
+Peach Jam	280	14	1 tablespoon of sweet (5gr)
+Apricot jam	240	12	1 tablespoon of sweet (5gr)
+Lettuce (raw)	20	50	250gr
+Marshmallow	318	145	1 piece (45gr)
+Martini	104	47	45ml
+Martini	160	160	100ml
+Chios Mastic	1365	27	2gr
+Black chocolate	571	143	25g
+Mavrodafni	105	105	100ml
+Broccoli (frozen)	29	72.5	250gr
+Molasses	290	15	1 tablespoon of sweet (5gr)
+Honey	304	15	1 tablespoon of sweet (5gr)
+Baked EGGPLANT	21	52.5	250gr
+Eggplant Fried Eggplant	219	219	100gr
+Eggplant Pickles	49	59	120gr
+Eggplant salad	267	27	1 tablespoon of soup (10gr)
+Apple	63	126	1 medium (200gr)
+Apple (dried)	243	97	40gr
+Apple green	59	118	1 medium (200gr)
+Apple cider vinegar	21	1	1 tablespoon of sweet (5gr)
+Miso	198	50	25gr
+Mojito	300	300	100ml
+Mortadelo	225	57	25gr
+Braised beef	226	283	125gr
+Braised beef with pumpkins	163	204	125gr
+Veal with artichokes and egg lemon	236	295	125gr
+Veal with egg and lemon celery	195	244	125gr
+Silverside beef	217	260	120gr
+Pot roast beef	295	369	125gr
+Beef stew	144	180	125gr
+Veal taskebab	217	271	125gr
+Beef boiled with vegetables	170	213	125gr
+Beef olive	208	250	120gr
+Beef shoulder	304	365	120gr
+Beef burger	212	254	120gr
+Roast Beef Bon Fillet	175	210	120gr
+Beef panties	181	217	120gr
+Beef shank	178	214	120gr
+Musty lemon	30	2	1 slice (7 gr)
+lime juice	25	63	250ml
+lime	30	2	1 slice (7gr)
+Berries	40	44	110gr
+Moussaka	256	500	195gr
+Medlar	37	74	200gr
+Mustard	60	3	1 Mr. Sweet (5gr)
+Buckwheat (frozen)	30	75	250gr
+Buckwheat (raw)	82	147	1 cup (180gr)
+Blueberry	57	43	75gr
+Nectarine	31	44	1 small (140gr)
+Gnocchi	158	126	80 gr
+Noodles	108	123	1 cup (114gr)
+Barley thug	368	184	50gr
+Dolmades with minced egg and lemon	187	327	175gr
+Fresh tomato	22	55	250gr
+Sundried tomato	258	39	1 tablespoon (15gr)
+Tomato paste	82	33	40gr
+Cherry tomatoes	26	65	250gr
+Omelette	235	294	125gr
+Whiskey	278	125	45ml
+Calves tail	251	226	90gr
+Ouzo	218	98	45ml
+Baked bonito	147	176	120gr
+Pancetta	357	446	4 pieces (125gr)
+Beetroot	44	110	250gr
+Beetroot	44	110	250gr
+Papaya	43	95	1 cup (220gr)
+Papardelles	375	318	85gr
+Slippers	191	430	225gr
+Pork loin	163	33	20gr
+Black olive paste	200	20	1 tablespoon of soup (10gr)
+Pasta	225	438	195gr
+Pasticcio	253	493	195gr
+Cured beef	330	50	1 slice (15gr)
+Pastrami	147	22	1 slice (15gr)
+Anti-night potatoes	202	384	190gr
+Potatoes baby	93	102	2 potatoes (110gr)
+Baked potatoes	93	145	1 potato (156gr)
+Fries	196	157	80 gr
+Boiled potatoes	125	213	1 medium (170gr)
+Boiled potatoes with skin	66	112	170gr
+Tripe	154	346	225gr
+Barley nuts	357	187.5	1 piece (50gr)
+Barley nuts without salt	387	193.5	1 piece (50gr)
+Wheat nuts	407	204	1 piece (50gr)
+Melon	34	95	1 slice (280gr)
+Bergamot	47	103	1 cup (220gr)
+Perch	79	67	1 fillet (85gr)
+Basil pesto	372	37	1 tablespoon of soup (10gr)
+Petimezi	227	14	1 tablespoon of sweet (5gr)
+Pina Colada	230	345	150ml
+Yellow pepper	27	67.5	250gr
+Red pepper	26	65	250gr
+Orange peppers	20	50	250gr
+Green pepper	20	50	250gr
+Chili peppers	40	4	10gr
+Florine peppers	20	50	250gr
+White pie	275	165	1 large (60gr)
+Whole wheat pie	262	168	1 large (64gr)
+Pies	274	164	1 pie (60 gr)
+Groats	92	78	1/2 cup (85gr)
+Polenta	64	80	125gr
+Popcorn (fat free)	372	93	3 cups (25gr)
+Orange	50	90	1 small (180gr)
+Orange juice	45	54	1/2 cup (120gr)
+Fried chicken	361	325	90gr
+Leeks (frozen)	61	152.2	250gr
+leek (raw)	45	113	250gr
+Leek (boiled)	47	117.5	250gr
+Prosciutto	195	29	1 slice (15gr)
+Burger buns	257	172	67gr
+White bread	238	67	1 slice (28gr)
+Wholemeal bread	304	85	1 slice (28gr)
+Wheat bread	274	79	1 slice (29gr)
+Radishes (frozen)	23	57.5	250gr
+Radishes (raw)	17	42.5	250gr
+Radishes (boiled)	5	12.5	250gr
+Brandy	289	130	45ml
+Radishes	16	40	250gr
+Ravioli	178	160	90gr
+Smoked herring	216	183	85gr
+Ressi	84	180	225gr
+Retsina	156	70	45ml
+Chickpeas	161	145	90gr
+Ribeye	205	246	120gr
+Peach (fresh)	31	53	1 medium (170gr)
+Peach (compote)	53	64	1/2 cup (120gr)
+Pomegranate	83	141	170gr
+Rofos	118	177	150gr
+Rocket	25	38	150gr
+Wild rice (cooked)	155	124	1/2 cup (80gr)
+American style rice (boiled)	152	91	1/3 cup (60gr)
+Basmati rice (boiled)	132	79	1/3 cup (60gr)
+Brown rice (boiled)	145	87	1/3 cup (60gr)
+White rice (boiled)	109	65	1/3 cup (60gr)
+Rice wafers	350	70	2 pieces (20gr)
+Sweet champagne	140	140	100ml
+Sanguine (juice)	49	123	250ml
+Salami	490	98	20gr
+Soy sauce	60	6	1 tablespoon of soup (10gr)
+Sambuca white	264	119	45ml
+Black Sambuca	278	125	45ml
+Whipped cream	343	34	1 tsp. Soup (10gr)
+Sandwiches with sausages and tomato	246	384	156gr
+Marinated sardine	191	216	113gr
+Salted sardines	93	79	85gr
+Sardines	208	191	113gr
+Chives	30	75	250gr
+Celery	14	21	150gr
+Celery (raw)	14	35	250gr
+Celery rice (boiled)	68	170	250gr
+Celery (boiled)	18	45	250gr
+Haddock (boiled)	44	110	250gr
+Boiled grouper	136	163	120gr
+Seiftalia (baked)	314	393	125gr
+Coarse semolina	353	106	30gr
+Fine semolina	353	106	30gr
+Maple syrup	260	13	1 tablespoon of sweet (5gr)
+Sesame oil	884	44	1 tablespoon of sweet (5g)
+Wheatgrass	16	40	250gr
+Bunch of dust	1	2.5	250gr
+Skordalia	380	95	1 tsp. Soup (25gr)
+Garlic	44	4.4	10gr
+Garlic paste	331	50	1 tsp. Soup (15gr)
+Grilled scorpina	121	145	120gr
+smoked mackerel	200	56	28gr
+Grilled mackerel	158	300	190gr
+Sesame	631	63	1 box Soup (10gr)
+Sesame	631	63	1 tsp. Soup (10gr)
+Sujiukos	397	318	80 gr
+Suzukaki	193	212	110gr
+Spinach	28	70	250gr
+Spinach (frozen)	31	77.5	250gr
+Asparagus	20	50	250gr
+Spetsofai	267	600	225gr
+Spirulina	286	57	1 box Soup (20gr)
+Chia seeds	486	136	2 tsp. Soup (28gr)
+Dried grapes	299	120	2 boxes Soup (40gr)
+Blonde raisins	299	120	2 boxes Soup (40gr)
+Grapes	69	59	17 small rogas (85gr)
+Strutchki with eggs	212	430	200gr
+Figs	87	87	2 figs (100gr)
+Fresh figs	87	87	2 figs (100gr)
+Dry figs	249	75	2 figs (30gr)
+Chicken livers	167	200	120gr
+Veal livers	165	198	120gr
+Beef liver	189	227	120gr
+Grilled meatballs	118	142	120gr
+Tahini	606	61	2 tablespoons of sugar (10 gr)
+Whole wheat tahini	617	62	2 spoons of sweet (10gr)
+Tahino salad	267	214	80 gr
+Preserved fish roe	233	70	30gr
+Fish roe salad	463	139	30gr
+Tequila	264	119	45ml
+Tequila Sunrise	189	142	75ml
+Thrapsalo	183	220	120gr
+Thyme (fresh)	101	0.8	1 box of sweet (0.8 gr)
+Tuna in oil	128	220	1 can (172gr)
+Tuna in water	186	331	1 can (178gr)
+Tortellini with meat	404	336	83gr
+Tortellini with cheeses	373	231	62gr
+Tortilla (large)	308	92	1/3 piece (30gr)
+Tortilla (small)	309	93	1 piece (30gr)
+Whole wheat tortillas	291	84	1/2 piece (29gr)
+Frumenty	398	259	65gr
+Cold trade tea	21	52	250ml
+Tea with honey 1 kg.	13	32	250ml
+Tea with sugar 1 kg.	8	20	250ml
+Tea with sugar + milk 1 kg.	18	44	250ml
+Plain tea	0.4	1	250ml
+Chives	30	5	2 tsp. Soup (15gr)
+Grilled sea bream	105	189	180gr
+Tsipouro	33	150	45ml
+Blue cheese	353	106	30gr
+Brie cheese	334	100	30gr
+Burrata cheese	227	68	30gr
+Cottage cheese 2.2%	81	24	30gr
+Cottage cheese 4%	147	44	30gr
+Emmental cheese 16%	274	82	30gr
+Emmental cheese 28%	268	80	30gr
+Edam cheese	357	107	30gr
+Feta cheese	265	80	30gr
+Vegetable parmesan cheese	500	150	30gr
+Vegetable cheese	277	83	30gr
+Gouda cheese	356	107	30gr
+Epirus Caseri cheese	369	111	30gr
+Macedonian Kaseri cheese	379	114	30gr
+Aegean Islands Kaseri Cheese	295	86	30gr
+Katiki cheese	169	51	30gr
+Kefalograviera Pel/sou cheese	349	105	30gr
+Kefalograviera cheese St. greece	407	122	30gr
+Cream cheese	350	88	25gr
+Light cream cheese	208	52	25gr
+Ladotiri cheese of Mytilene	398	120	30gr
+Manouri cheese	421	126	30gr
+Metsovone cheese	376	113	30gr
+Mozzarella cheese	296	89	30gr
+Myzithra cheese	185	56	30gr
+Roquefort cheese	369	111	30gr
+Soy cheese	250	75	30gr
+Cheddar cheese 10%	224	67	30gr
+Ginger	80	4	1 tablespoon of sweet (5gr)
+Ursus	147	66	45ml
+Fresh cod plate with potatoes	138	173	125gr
+Fresh cod, boiled with vegetables	125	156	125gr
+Salted cod slab	175	219	125gr
+Vanilla	288	14	1 tsp. Sweet (5 gr)
+Royal	23	0.6	5 leaves (2.5gr)
+Blueberries	52	52	100gr
+Dried blueberries	371	167	2 boxes Soup (45gr)
+Blackberries	52	52	100gr
+Raspberry Red	103	19.6	10 blueberries (19gr)
+Apricot	39	68	1 large (175gr)
+Dried apricot	241	125	4 pieces (52gr)
+Sweet vermouth	291	160	55ml
+Dry vermouth	182	100	55ml
+Blita (raw)	26	7.3	1 cup (28gr)
+Blita (boiled)	22	29	1 cup (132gr)
+Beef	290	363	125gr
+Frozen beef burger	170	187	110gr
+Grilled beef liver	209	261	125gr
+Beef Broth	7	17	1 cup (240gr)
+Beef gyro in a Cypriot pie	233	280	120gr
+Vodka	278	125	45ml
+Bulbs (boiled)	78	70	1 cup (89gr)
+Cow Butter	740	74	10gr
+Soft Cow Butter 60%	540	54	10gr
+Clarifying butter	900	45	1 tablespoon of sweet (5gr)
+Sheep Butter	744	74.4	10gr
+Soft butter with olive oil	544	54.4	10gr
+Brazilian pistachio	659	79	5 peanuts (12gr)
+Sour cherry	50	52	1 sour cherry (103gr)
+sour cherry (dried)	42	70	1 cup (168gr)
+Swordfish	144	196	1 piece (136gr)
+Red wine vinegar	19	1	1 tablespoon of sweet (5gr)
+White wine vinegar	20	1	1 tablespoon of sweet (5gr)
+Packaged fruit juice	46	115	250ml
+Sour milk	47	118	250gr
+Lean ham	92	23	1 slice (25gr)
+Smoked ham	122	31	1 slice (25gr)
+Powdered sugar	389	20	1 tablespoon of sweet (5gr)
+Date sugar	333	17	1 tablespoon of sweet (5gr)
+Coconut sugar	400	20	1 tablespoon of sweet (5gr)
+Brown sugar	380	19	1 tablespoon of sweet (5gr)
+White sugar	385	19	1 tablespoon of sweet (5gr)
+Maple sugar	354	18	1 tablespoon of sweet (5gr)
+Saccharin	360	18	1 tablespoon of sweet (5gr)
+Jelly (thick)	108	238	220gr
+Zargana	215	320	150gr
+Gelatine	329	16	1 tablespoon of sweet (5gr)
+zombie	371	557	150ml
+Vegetable broth	5	12	1 cup (240gr)
+Pea pasta (uncooked)	345	428	1 cup (124gr)
+Carob pasta (uncooked)	370	459	1 cup (124gr)
+Lentil pasta (uncooked)	357	443	1 cup (124gr)
+Bean pasta (uncooked)	379	470	1 cup (124gr)
+Pasta from fava beans (uncooked)	340	422	1 cup (124gr)
+Lupine pasta (uncooked)	329	408	1 cup (124gr)
+Chickpea pasta (uncooked)	333	413	1 cup (124gr)
+Soybean pasta (uncooked)	117	145	1 cup (124gr)
+Fenugreek pasta (uncooked)	321	398	1 cup (124gr)
