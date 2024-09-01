@@ -5,7 +5,7 @@ Project for the Databases 2024 class in NTUA ECE that simulates a Database for a
 ## Authors
 - Azas Leonidas ge20117
 - Zorzos Achilleas ge20026
-- Bothos Bouterakos Nikolaos el20158
+- Bothos Vouterakos Nikolaos el20158
 
 ## ER Diagram
 ![ER-1](https://github.com/nikolasbv/Cooking_Contest_DB/blob/main/Diagrams/ER/ER_DIAGRAM.png)
